@@ -1,11 +1,11 @@
 header {
     background-color: rgb(70, 150, 220);
-    height: 100px;
+    height: 120px;
 }
 
 #Logo_title {
-    height: 50px;
-    padding-top: 40px;
+    height: 60px;
+    padding-top: 50px;
     padding-left: 10px;
 }
 
@@ -16,5 +16,20 @@ header {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+span {
+    color: rgba(0, 0, 255, 0.5);
+}
+
+.Tim {
+    width: 49%;
+    height: 600px;
 }
