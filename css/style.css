@@ -1,0 +1,16 @@
+header {
+    background-color: rgb(70, 150, 220);
+    height: 100px;
+}
+
+#Logo_title {
+    height: 50px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+.header_background {
+    background-image: url(../imgs/pattern.png);
+    background-size: 20%;
+    height: 100%;
+}
