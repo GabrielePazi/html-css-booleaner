@@ -1,0 +1,92 @@
+header {
+    background-color: rgb(70, 150, 220);
+    height: 120px;
+}
+
+main {
+    border-right: solid 100px transparent;
+    border-left: solid 100px transparent;
+}
+
+#Logo_title {
+    height: 60px;
+    border-left: solid 100px transparent;
+    border-top: solid 50px transparent;
+}
+
+.header_background {
+    background-image: url(../imgs/pattern.png);
+    background-size: 20%;
+    height: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+span {
+    color: rgba(0, 0, 255, 0.5);
+}
+
+.Tim_photo {
+    width: 49%;
+    height: 600px;
+}
+
+.main_paragraph {
+    font-size: 25px;
+}
+
+table {
+    border-spacing: 0px;
+    width: 100%;
+    text-align: left;
+}
+
+thead {
+    background-color: rgb(60, 150, 230);
+}
+
+th {
+    color: white;
+}
+
+.first_and_second_column {
+    width: 400px;
+}
+
+.odd_row {
+    background-color: lightblue;
+}
+
+.even_row {
+    background-color: white;
+}
+
+.monitor_photo {
+    background-image: url(../imgs/monitor.jpg);
+    width: 350px;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.graph_photo{
+    background-image: url(../imgs/graph.jpg);
+    width: 350px;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.interests {
+    color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
