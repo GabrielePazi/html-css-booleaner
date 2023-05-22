@@ -29,7 +29,59 @@ span {
     color: rgba(0, 0, 255, 0.5);
 }
 
-.Tim {
+.Tim_photo {
     width: 49%;
     height: 600px;
+}
+
+.main_paragraph {
+    font-size: 25px;
+}
+
+table {
+    border-spacing: 0px;
+    width: 100%;
+    text-align: left;
+}
+
+thead {
+    background-color: rgb(60, 150, 230);
+}
+
+th {
+    color: white;
+}
+
+.first_and_second_column {
+    width: 400px;
+}
+
+.odd_row {
+    background-color: lightblue;
+}
+
+.even_row {
+    background-color: white;
+}
+
+.monitor_photo {
+    background-image: url(../imgs/monitor.jpg);
+    width: 350px;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.graph_photo{
+    background-image: url(../imgs/graph.jpg);
+    width: 350px;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.interests {
+    color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
